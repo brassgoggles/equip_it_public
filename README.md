@@ -1,16 +1,11 @@
-# equip_it
+# equip_it_public
 
-A program to rent equipment and manage staff.
+This is the public version of the Equip It project - A program to rent equipment and manage staff.
 
-## Getting Started
+If you want to run the project, you will have to add a Config class that contains a root path and an apiKey.
 
-This project is a starting point for a Flutter application.
+You will be unable to access any of the application data as seen on the Turtleshell Software server (https://equipit.turtleshellsoftware.com) for privacy reasons but please feel free to create your own API and database to use.
 
-A few resources to get you started if this is your first Flutter project:
+If you have any feedback on the project or want to get in touch, please feel free to email me at info@turtleshellsoftware.com
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enjoy the project and Flutter on!
